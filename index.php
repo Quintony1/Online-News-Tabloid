@@ -10,7 +10,7 @@ session_start();
 define('BASE_PATH', __DIR__);
 define('CURRENT_DOMAIN', current_domain() . '/NewsProject/');
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'news-project');
+define('DB_NAME', 'online-tabloid');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 define('DISPLAY_ERROR', true);
